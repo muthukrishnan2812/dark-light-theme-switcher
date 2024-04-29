@@ -1,0 +1,25 @@
+{
+  "name": "dark-light-theme-switcher",
+  "version": "1.0.0",
+  "description": "dark, light, theme switcher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthukrishnan2812/dark-light-theme-switcher.git"
+  },
+  "keywords": [
+    "dark",
+    "light",
+    "theme"
+  ],
+  "author": "Muthu Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthukrishnan2812/dark-light-theme-switcher/issues"
+  },
+  "homepage": "https://github.com/muthukrishnan2812/dark-light-theme-switcher#readme"
+}
